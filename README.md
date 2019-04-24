@@ -1,5 +1,5 @@
 # AWS_POC tutorial
-## A start of an exciting adventure on AWS.
+## A start of an exciting adventure on AWS for Genomics Facility Monash University Malaysia.
 
 Hello everyone. The purpose of this tutorial is to document our experience of using AWS and explore how we can use the plethora of AWS services for genomics research in Monash University Malaysia.
 
