@@ -9,11 +9,10 @@ Notebook02. [Set billing alarm](./notebooks/Notebook02.ipynb)</br>
 Notebook02-1. [Trying out Unicycler on our charged instance](./notebooks/Notebook02-1.ipynb)</br>
 Notebook03. [Expanding EBS Volume]()
 
-IAM roles
-AWS S3
-Installing miniconda and run Jupyter
-Spot pricing
-Multiple instances
-Spot fleet
-
-Get started - E. coli K12 genome</br>
+### Potential topics
+- IAM roles
+- AWS S3
+- Installing miniconda and run Jupyter
+- Spot pricing
+- Multiple instances
+- Spot fleet
