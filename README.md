@@ -5,11 +5,13 @@ Hello everyone. The purpose of this tutorial is to document our experience of us
 
 The POC credit was granted because we had a challenge in storage data and computational power for genome hybrid assembly. So while this tutorial touches on hard concepts of AWS, we will also see how we can use AWS services for bioinformatics analysis, assembly of eukaryotic genomes in particular.
 
-Notebook00. [Activating Proof-of-Concept (POC) credits](./notebooks/Notebook00.ipynb)</br>
-Notebook01. [Starting an instance](./notebooks/Notebook01.ipynb)</br>
-Notebook02. [Set billing alarm](./notebooks/Notebook02.ipynb)</br>
-Notebook02-1. [Trying out Unicycler on our charged instance](./notebooks/Notebook02-1.ipynb)</br>
-Notebook03. [EC2 EBS Volume](./notebooks/Notebook03.ipynb)
+- Notebook00. [Activating Proof-of-Concept (POC) credits](./notebooks/Notebook00.ipynb)</br>
+- Notebook01. [Starting an instance](./notebooks/Notebook01.ipynb)</br>
+- Notebook02. [Set billing alarm](./notebooks/Notebook02.ipynb)</br>
+- Notebook02-1. [Trying out Unicycler on our charged instance](./notebooks/Notebook02-1.ipynb)</br>
+- Notebook03. [EC2 EBS Volume](./notebooks/Notebook03.ipynb)
+- Notebook03-1. [Checking EBS and continue Unicycling](./notebooks/Notebook03-1.ipynb)
+- Notebook03-2. [Unicycler is taking too long](./notebooks/Notebook03-2.ipynb)
 
 ### Potential topics
 - IAM roles
