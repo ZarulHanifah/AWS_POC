@@ -13,6 +13,9 @@ The POC credit was granted because we had a challenge in storage data and comput
 - Notebook03-1. [Checking EBS and continue Unicycling](./notebooks/Notebook03-1.ipynb)
 - Notebook03-2. [Unicycler is taking too long](./notebooks/Notebook03-2.ipynb)
 - Notebook04. [Easy spot pricing](./notebooks/Notebook04.ipynb)
+- Notebook04-1. [Setting up a new instance](./notebooks/Notebook04-1.ipynb)
+- Notebook04-2. [Hybrid assembly of <em>E. Coli</em>](./notebooks/Notebook04-2.ipynb)
+
 
 ### Potential topics
 - IAM roles
