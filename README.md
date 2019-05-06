@@ -15,6 +15,7 @@ Earlier, we had a challenge in storage data and computational power to conduct a
 - Notebook04-0. [Easy spot pricing](./notebooks/Notebook04-0.ipynb)
 - Notebook04-1. [Setting up a new instance](./notebooks/Notebook04-1.ipynb)
 - Notebook04-2. [Hybrid assembly of <em>E. Coli</em>](./notebooks/Notebook04-2.ipynb)
+- Notebook04-3. [Assessing <em>E. Coli</em> genome assemblies](./notebooks/Notebook04-2.ipynb)
 - Notebook05-0. [Setting up Anaconda](./notebooks/Notebook05-0.ipynb)
 - Notebook05-1. [Jupyter Server](./notebooks/Notebook05-1.ipynb)
 - Notebook05-2. [RStudio Server](./notebooks/Notebook05-2.ipynb)
