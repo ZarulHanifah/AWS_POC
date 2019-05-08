@@ -19,6 +19,8 @@ Earlier, we had a challenge in storage data and computational power to conduct a
 - Notebook05-0. [Setting up Anaconda](./notebooks/Notebook05-0.ipynb)
 - Notebook05-1. [Jupyter Server](./notebooks/Notebook05-1.ipynb)
 - Notebook05-2. [RStudio Server](./notebooks/Notebook05-2.ipynb)
+- Notebook06-0. [Getting started with AWS S3](./notebooks/Notebook06-0.ipynb)
+- Notebook06-1. [Transferring files in S3](./notebooks/Notebook06-1.ipynb)
 
 
 ### Potential topics
