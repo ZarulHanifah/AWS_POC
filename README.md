@@ -26,8 +26,6 @@ Earlier, we had a challenge in storage data and computational power to conduct a
 ### Potential topics
 - IAM roles
 - AWS S3
-- Installing miniconda and run Jupyter
-- Spot pricing
 - Multiple instances
 - Spot fleet
 - AWS Batch
