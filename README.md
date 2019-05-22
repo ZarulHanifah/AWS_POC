@@ -21,6 +21,7 @@ Earlier, we had a challenge in storage data and computational power to conduct a
 - Notebook05-2. [RStudio Server](./notebooks/Notebook05-2.ipynb)
 - Notebook06-0. [Getting started with AWS S3](./notebooks/Notebook06-0.ipynb)
 - Notebook06-1. [Transferring files in S3](./notebooks/Notebook06-1.ipynb)
+- Notebook06-2. [Mounting S3 into EC2 instance](./notebooks/Notebook06-1.ipynb)
 
 
 ### Potential topics
